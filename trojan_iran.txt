@@ -1,9 +1,10 @@
-trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwh.phooeyunfold.com#@Vip_Security join us - 284
-trojan://ypDt8RkT7J@138.199.23.100:43118?security=tls&headerType=none&type=tcp&sni=radtz.phooeyunfold.com#@Vip_Security join us - 283
-trojan://xstack-5314-3233-freevpn@cdn-sv-4.goldaccess.xyz:1935?security=tls&alpn=h2,http/1.1&headerType=none&type=tcp#@Vip_Security join us - 282
-trojan://wkmY1R4EcP@45.76.130.173:443?security=tls&headerType=none&type=tcp&sni=z-v2-003289.kailib.com#@Vip_Security join us - 281
-trojan://wkmY1R4EcP@45.32.148.182:443?security=tls&headerType=none&type=tcp&sni=z-v2-002805.kailib.com#@Vip_Security join us - 280
-trojan://wkmY1R4EcP@209.250.246.191:443?security=tls&headerType=none&type=tcp&sni=z-v2-003294.kailib.com#@Vip_Security join us - 279
+trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwh.phooeyunfold.com#@Vip_Security join us - 285
+trojan://ypDt8RkT7J@138.199.23.100:43118?security=tls&headerType=none&type=tcp&sni=radtz.phooeyunfold.com#@Vip_Security join us - 284
+trojan://xstack-5314-3233-freevpn@cdn-sv-4.goldaccess.xyz:1935?security=tls&alpn=h2,http/1.1&headerType=none&type=tcp#@Vip_Security join us - 283
+trojan://wkmY1R4EcP@45.76.130.173:443?security=tls&headerType=none&type=tcp&sni=z-v2-003289.kailib.com#@Vip_Security join us - 282
+trojan://wkmY1R4EcP@45.32.148.182:443?security=tls&headerType=none&type=tcp&sni=z-v2-002805.kailib.com#@Vip_Security join us - 281
+trojan://wkmY1R4EcP@209.250.246.191:443?security=tls&headerType=none&type=tcp&sni=z-v2-003294.kailib.com#@Vip_Security join us - 280
+trojan://wkmY1R4EcP@209.250.246.191:443?encryption=none&security=tls&sni=z-v2-003294.kailib.com&type=tcp&headerType=none#@Vip_Security join us - 279
 trojan://user@s9.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s9.mynameismahsa.info#@Vip_Security join us - 278
 trojan://user@s8.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s8.mynameismahsa.info#@Vip_Security join us - 277
 trojan://user@s7.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s7.mynameismahsa.info#@Vip_Security join us - 276
